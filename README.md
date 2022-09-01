@@ -43,6 +43,13 @@ He has a personality that drives him crazy when he is obsessed with one thing.
 
 ## 🧐Participatory Project
 
+- Make My portfolio Page
+
+- Frip Toy Project
+
+- LossLeader Project
+
+- IBIZ corporate Project
 
 
 
