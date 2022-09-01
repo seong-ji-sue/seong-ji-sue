@@ -7,7 +7,7 @@
 Hi My Name Is Seong Ji Sue.
 I am a man of good living who is thinking and researching from the user's point of view.
 
-🤝 팀원들과 소통하여 올바른 길로 인도하는 역활을 합니다.
+🤝 팀원들과 소통하여 올바른 길로 인도하는 역할을 합니다.
 
 It plays a role in communicating with team members and guiding them to the right path.
 
@@ -15,7 +15,7 @@ It plays a role in communicating with team members and guiding them to the right
 
 I enjoy analyzing problems and finding solutions.
 
-📑  문서화와 정보 공유를 기반으로 업무의 효율성 증진을 추구합니다.
+📑  문서화와 정보 공유를 기반으로 업무의 증진을 추구합니다.
 
 We seek to increase work efficiency based on documentation and information sharing.
 
