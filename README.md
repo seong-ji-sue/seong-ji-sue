@@ -31,8 +31,7 @@ He has a personality that drives him crazy when he is obsessed with one thing.
 <br/> 
 <img alt="React" src ="https://img.shields.io/badge/React-61DBFB.svg?&style=for-the-badge&logo=React&logoColor=white"/> <img alt="Vue" src="https://img.shields.io/badge/Vue-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white"/> <img alt="Spring" src ="https://img.shields.io/badge/Spring-6EB442.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <br/>
-<img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-FFABDE.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/> <img alt="Sass" src ="https://img.shields.io/badge/Sass-CD6799.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>  
-<br/>
+<img alt="styled-components" src="https://img.shields.io/badge/styledcomponents-FFABDE.svg?&style=for-the-badge&logo=styled-components&logoColor=white"/> <img alt="Sass" src ="https://img.shields.io/badge/Sass-CD6799.svg?&style=for-the-badge&logo=Sass&logoColor=white"/>
 <img alt="Vuetify" src ="https://img.shields.io/badge/Vuetify-1867C0.svg?&style=for-the-badge&logo=Vuetify&logoColor=white"/> <img alt="Vuex" src ="https://img.shields.io/badge/Vuex-41B883.svg?&style=for-the-badge&logo=VTEX&logoColor=white"/> <img alt="Redux" src ="https://img.shields.io/badge/Redux-764ABC.svg?&style=for-the-badge&logo=Redux&logoColor=white"/> 
 <br/>
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/> <img alt="NginX" src ="https://img.shields.io/badge/NginX-039639.svg?&style=for-the-badge&logo=NginX&logoColor=white"/> <img alt="Jenkins" src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/> 
