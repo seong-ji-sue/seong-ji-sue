@@ -45,11 +45,11 @@ He has a personality that drives him crazy when he is obsessed with one thing.
 
 - [Make My portfolio Page](https://github.com/seong-ji-sue/portfolioPage)
 
-- Frip Toy Project
+- [Frip Toy Project](https://github.com/wecode-bootcamp-korea/fullstack2-2nd-ADLIP-frontend)
 
-- LossLeader Project
+- [LossLeader Project](https://github.com/Loss-Leader-Project/Fontend)
 
-- IBIZ corporate Project
+- [IBIZ corporate Project](https://github.com/ibznts/sisbroker_Frontend-New)
 
 
 
