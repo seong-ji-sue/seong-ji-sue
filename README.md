@@ -3,6 +3,7 @@
 ## 🖐 Introduce
 
 저는 사용자 관점에서 생각하고 연구하는 바른 생활 사나이 입니다.
+
 Hi My Name Is Seong Ji Sue.
 I am a man of good living who is thinking and researching from the user's point of view.
 
