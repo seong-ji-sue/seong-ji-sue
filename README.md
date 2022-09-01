@@ -43,7 +43,7 @@ He has a personality that drives him crazy when he is obsessed with one thing.
 
 ## 🧐Participatory Project
 
-- Make My portfolio Page
+- [Make My portfolio Page](https://github.com/seong-ji-sue/portfolioPage)
 
 - Frip Toy Project
 
