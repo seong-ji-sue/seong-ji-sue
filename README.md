@@ -35,30 +35,3 @@ He has a personality that drives him crazy when he is obsessed with one thing.
 <img alt="AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/> <img alt="NginX" src ="https://img.shields.io/badge/NginX-039639.svg?&style=for-the-badge&logo=NginX&logoColor=white"/> <img alt="Jenkins" src ="https://img.shields.io/badge/jenkins-D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/> 
 <br/>
 <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/> <img alt="Azure DevOps" src ="https://img.shields.io/badge/Azure DevOps-0078D7.svg?&style=for-the-badge&logo=Azure DevOps&logoColor=white"/> <img alt="Jira" src ="https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white"/> <img alt="JetBrains" src ="https://img.shields.io/badge/JetBrains-000000.svg?&style=for-the-badge&logo=JetBrains&logoColor=white"/> 
-
-
-
-
-## 🧐Participatory Project
-
-- [Make My portfolio Page](https://github.com/seong-ji-sue/portfolioPage)
-
-- [Frip Toy Project](https://github.com/wecode-bootcamp-korea/fullstack2-2nd-ADLIP-frontend)
-
-- [LossLeader Project](https://github.com/Loss-Leader-Project/Fontend)
-
-- [IBIZ corporate Project](https://github.com/ibznts/sisbroker_Frontend-New)
-
-
-## Link to
-
-- [My Tech Blog](https://zibu-story.tistory.com/))
-
-
-
-## 🏅My Scores
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseong-ji-sue%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visit+count&edge_flat=false)](https://hits.seeyoufarm.com)
-<br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seong-ji-sue&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seong-ji-sue&langs_count=8)](https://github.com/깃허브아이디/github-readme-stats)
-
