@@ -36,23 +36,7 @@ User Input
 ---
 
 <div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=seong-ji-sue&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seong-ji-sue&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=seong-ji-sue&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<a href="mailto:tjdwltn121@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-tjdwltn121%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
-</a>
+📧 tjdwltn121@gmail.com
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&height=120&section=footer" />
