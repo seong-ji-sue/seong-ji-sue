@@ -2,7 +2,9 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0d1117,100:1a1f2e&height=250&section=header&text=Seong%20Ji%20Sue&fontSize=56&fontColor=58A6FF&animation=twinkling&fontAlignY=42&desc=Claude%20Automation%20Engineer&descSize=22&descAlignY=63&descFontColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=58A6FF&bg_color=0D1117&center=true&vCenter=true&width=560&height=50&lines=Claude+Code+Harness+Builder+%F0%9F%A4%96;Multi-Agent+Orchestration+Designer;n8n+%2B+LLM+Pipeline+Architect;RAG+%7C+ChromaDB+%7C+Slack+Bot+Automation" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&height=50&lines=Claude+Code+Harness+Builder+%F0%9F%A4%96;Multi-Agent+Orchestration+Designer;n8n+%2B+LLM+Pipeline+Architect;RAG+%7C+ChromaDB+%7C+Slack+Bot+Automation" />
 
 <br/>
 
