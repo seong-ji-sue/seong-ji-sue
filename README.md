@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=220&section=header&text=Seong%20Ji%20Sue&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Claude%20Automation%20Engineer&descSize=20&descAlignY=60&descFontColor=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:030712,50:0d1117,100:1a1f2e&height=250&section=header&text=Seong%20Ji%20Sue&fontSize=56&fontColor=58A6FF&animation=twinkling&fontAlignY=42&desc=Claude%20Automation%20Engineer&descSize=22&descAlignY=63&descFontColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Claude+Code+Harness+Builder;Multi-Agent+Orchestration+Designer;n8n+%2B+LLM+Pipeline+Architect;RAG+%7C+ChromaDB+%7C+Slack+Bot" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3500&pause=1000&color=58A6FF&bg_color=0D1117&center=true&vCenter=true&width=560&height=50&lines=Claude+Code+Harness+Builder+%F0%9F%A4%96;Multi-Agent+Orchestration+Designer;n8n+%2B+LLM+Pipeline+Architect;RAG+%7C+ChromaDB+%7C+Slack+Bot+Automation" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=py,ts,nextjs,docker,supabase,github&theme=dark" />
 
 </div>
 
@@ -36,7 +40,13 @@ User Input
 ---
 
 <div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=seong-ji-sue&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" />
+
+<br/><br/>
+
 📧 tjdwltn121@gmail.com
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1f2e,50:0d1117,100:030712&height=120&section=footer" />
