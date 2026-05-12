@@ -1,17 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=200&section=header&text=Seong%20Ji%20Sue&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Claude%20Automation%20Engineer&descSize=18&descAlignY=60&descFontColor=aaaaaa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=220&section=header&text=Seong%20Ji%20Sue&fontSize=52&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=Claude%20Automation%20Engineer&descSize=20&descAlignY=60&descFontColor=8b949e" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Claude+Code+Harness+Builder;Multi-Agent+Orchestration+Designer;n8n+%2B+LLM+Pipeline+Architect;RAG+%7C+ChromaDB+%7C+Slack+Bot+Automation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=540&lines=Claude+Code+Harness+Builder;Multi-Agent+Orchestration+Designer;n8n+%2B+LLM+Pipeline+Architect;RAG+%7C+ChromaDB+%7C+Slack+Bot" />
 
 </div>
 
 <br/>
-
-## 안녕, 저는 성지수입니다
-<sub>Hi — I design and operate automation systems with Claude Code harness</sub>
-
-> Claude Code 하네스로 자동화 시스템을 설계하고 운영합니다
 
 ---
 
@@ -42,16 +37,22 @@ User Input
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=seong-ji-sue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117" />
-&nbsp;
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seong-ji-sue&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=seong-ji-sue&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+&nbsp;&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seong-ji-sue&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=seong-ji-sue&theme=github-compact&hide_border=true&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff" />
 
 </div>
 
 <br/>
 
 <div align="center">
-📧 tjdwltn121@gmail.com
+<a href="mailto:tjdwltn121@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-tjdwltn121%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,12,6&height=100&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:161b22,50:0d1117,100:000000&height=120&section=footer" />
